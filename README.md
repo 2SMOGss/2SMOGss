@@ -3,7 +3,7 @@
 <img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
 
 
-<h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,<!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,<!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
 
