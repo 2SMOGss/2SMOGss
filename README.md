@@ -1,8 +1,9 @@
 <img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
-![HGYj714](https://github.com/2SMOGss/2SMOGss/assets/39677840/810f6b95-ab12-4ace-87e4-849a88c03240)
+
+<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
 
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/2SMOGss/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,<!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
 
