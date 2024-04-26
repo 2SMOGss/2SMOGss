@@ -7,8 +7,11 @@
   <a href="https://www.youtube.com/c/joshmadakor">Cloud and GRC are my Passion</a></h1> 
 <!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
   -->
+<h2>🌱 I’m currently learning ...</h2>
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
+
+<p id="demo"></p>
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
@@ -57,7 +60,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
