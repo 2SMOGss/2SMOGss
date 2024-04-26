@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
 
-<script type="text/javascript" src="tjg.js"></script>
+ <script type="text/javascript" src="tjg.js"></script> 
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
