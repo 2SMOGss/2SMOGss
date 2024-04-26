@@ -11,11 +11,7 @@
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
 
-<head>
-    <title>Example</title>
-    <link type="text/css" rel="stylesheet" href="tjg.css"/>
-    <script type="text/javascript" src="tjg.js"></script>      
-</head>
+
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
@@ -72,3 +68,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+<head>
+    <title>Example</title>
+    <link type="text/css" rel="stylesheet" href="tjg.css"/>
+    <script type="text/javascript" src="tjg.js"></script>      
+</head>
