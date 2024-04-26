@@ -12,7 +12,7 @@
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
-  -[Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects/blob/main/README.md)
+  - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects/blob/main/README.md)
  
  <!--
   - 
