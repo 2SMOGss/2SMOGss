@@ -48,7 +48,7 @@
 [twitter]: https://twitter.com/joshmadakor 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[github]: https://github.com/2SMOGss/2SMOGss 
+[snapchat]: https://github.com/2SMOGss/2SMOGss 
 [linkedin]: https://linkedin.com/in/robchich
 
 <!--
