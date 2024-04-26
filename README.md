@@ -11,7 +11,8 @@
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
 
-<p id="demo"></p>
+ <script type="text/javascript" src="tjg.js"/>    
+   <p>This paragraph is an example.</p>
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
