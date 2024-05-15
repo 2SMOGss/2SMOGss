@@ -4,7 +4,7 @@
 
 
 <h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,
-  <a href="https://www.youtube.com/c/joshmadakor">Cloud and GRC are my Passion</a></h1> 
+  <a href="">Cloud and GRC are my Passion</a>https://www.linkedin.com/in/robchich/</h1> 
 <!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
   -->
 <h2>🌱 I’m currently learning ...</h2>
