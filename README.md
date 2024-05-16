@@ -52,8 +52,10 @@
 
 [twitter]: https://twitter.com/2sm0gSS -->
 
-[<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://linkedin.com/in/robchich
+<!--[<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: --> 
+
+<h3>https://linkedin.com/in/robchich</h3>  
 
 <!--[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
