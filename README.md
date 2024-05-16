@@ -50,10 +50,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/2sm0gSS
+<!--[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[snapchat]: https://github.com/2SMOGss/2SMOGss 
+[snapchat]: https://github.com/2SMOGss/2SMOGss -->
 [linkedin]: https://linkedin.com/in/robchich
 
 <!--
