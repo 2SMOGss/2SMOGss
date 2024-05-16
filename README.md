@@ -11,10 +11,13 @@
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
 - <b>Google Cybersecurity Certificate  (In progress, expected 06/24</b>
-  - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
-  - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects/blob/main/README.md)
 
-<h2>👨‍💻 Cybersecurity/GRC Analyst:</h2>
+<h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
+
+  - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
+  - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
+  - [GRC](https://github.com/2SMOGss/GRC)
+  - [MySQL](https://github.com/2SMOGss/MySQL)
  
  <!--
   - 
