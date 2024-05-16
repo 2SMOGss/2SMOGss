@@ -52,10 +52,11 @@
 
 [twitter]: https://twitter.com/2sm0gSS
 [linkedin]: https://linkedin.com/in/robchich
+
 <!--[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[snapchat]: https://github.com/2SMOGss/2SMOGss -->
-<!--
+[snapchat]: https://github.com/2SMOGss/2SMOGss
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
