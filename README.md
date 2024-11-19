@@ -1,6 +1,6 @@
-<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
+<!--<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
 
-<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
+<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
 
 
 <h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,
@@ -9,8 +9,9 @@
   -->
 <h2>🌱 I’m currently learning ...</h2>
 
-- <b>Google Cybersecurty Certificate (In progress exspected finish 9/24)</b>
-- <b>Google Cybersecurity Certificate  (In progress, expected 06/24</b>
+- <b>Google Cybersecurty Certificate (In progress exspected finish 11/24)</b>
+- <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
+<img src="<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
