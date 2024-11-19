@@ -11,7 +11,8 @@
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 11/24)</b>
 - <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
-<img src="<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg"><" width="500" height="600">
+<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="500" height="600">
+
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
