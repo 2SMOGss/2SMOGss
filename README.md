@@ -10,13 +10,12 @@
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Google Cybersecurty Certificate (In progress exspected finish 11/24)</b>
+- <b>CompTia Security + (In progress exspected finish 12/24)</b>
 - <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
 <!--<div>
   <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left">
-</div>-->
-<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 01/25)</b>
-
-
+</div>
+<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 01/25)</b>-->
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
