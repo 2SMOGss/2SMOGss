@@ -10,7 +10,8 @@
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Google Cybersecurty Certificate </b>
-https://www.credly.com/badges/abb07f91-e187-4b01-9b54-061bd7fc4b5e/public_url
+<img src="[https://www.example.com/images/dinosaur.jpg](https://www.credly.com/badges/abb07f91-e187-4b01-9b54-061bd7fc4b5e/public_url)" alt="Dinosaur" />
+
 - <b>CompTia Security + (In progress exspected finish 12/24)</b>
 - <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
 <!--<div>
