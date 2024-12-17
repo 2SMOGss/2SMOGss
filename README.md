@@ -10,18 +10,12 @@
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Google Cybersecurty Certificate </b>
-<img src="[https://www.example.com/images/dinosaur.jpg](https://www.credly.com/badges/abb07f91-e187-4b01-9b54-061bd7fc4b5e/public_url)" alt="GCC" />
-
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abb07f91-e187-4b01-9b54-061bd7fc4b5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 - <b>CompTia Security + (In progress exspected finish 12/24)</b>
 - <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
-<!--<div>
+  <div>
   <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left">
 </div>
-<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 01/25)</b>-->
+<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 01/25)</b>
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
