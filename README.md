@@ -9,9 +9,7 @@
   -->
 <h2>🌱 I’m currently learning ...</h2>
 
-- <b>Google Cybersecurty Certificate </b> <div>
-  <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="50" height="60" align="left">
-</div>
+- <b>Google Cybersecurty Certificate <div> </b>
 - <b>CompTia Security + (In progress exspected finish 12/24)</b>
 <!--- <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
   <div>
@@ -25,6 +23,8 @@
   - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
   - [GRC](https://github.com/2SMOGss/GRC)
   - [MySQL](https://github.com/2SMOGss/MySQL)
+
+<h2></h2>
  
  <!--
   - 
