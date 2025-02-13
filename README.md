@@ -3,8 +3,8 @@
 <img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
 
 
-<h1>Hi, I'm Rob! <br/><a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,
-  <a href="(https://www.linkedin.com/in/robchich/)">Cloud and GRC are my Passion</h1> 
+<h1>Hi, I'm Rob! <br/><!--<a href="https://github.com/2SMOGss/">-->Cybersecurity Student</a>, <!--<a href="https://www.linkedin.com/in/robchich/">-->Seasnoned Professional</a>,
+ <!-- <a href="(https://www.linkedin.com/in/robchich/)">-->Cloud and GRC are my Passion</h1> 
 <!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
   -->
 <h2>🌱 I’m currently learning ...</h2>
