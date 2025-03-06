@@ -1,6 +1,7 @@
-<!--<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
+<!--<img src="[(https://imgur.com/HGYj714)]" alt="Robert Chich Cyber Analyst">-->
 
-<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
+<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60">
+
 
 
 <h1>Hi, I'm Rob! <br/><<a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a>><!<a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)">-->Cloud and GRC are my Passion</h1> 
@@ -8,17 +9,16 @@
   -->
 <h2>🌱 I’m currently learning ...</h2>
 
-<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)</b>
+- <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>
 
-<b>CompTia Security + (In progress exspected finish 6/2025)</b>
-<!--- <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
-  <div>
-  <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left">
-</div>-->
+- <b>CompTia Security + (In progress exspected finish 6/2025)</b>
+
+  
+</div>
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
-  - [Cloud-Honeynet-SOC Project] (https://github.com/2SMOGss/Cloud-Honeynet-SOC)
+  - [Cloud-Honeynet-SOC Project](https://github.com/2SMOGss/Cloud-Honeynet-SOC)
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
   - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
   <!--- [GRC](https://github.com/2SMOGss/GRC)-->
@@ -27,7 +27,31 @@
 <h2>Skills</h2>
 
  - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]((https://github.com/2SMOGss/Cloud-Honeynet-SOC))
+ - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]((https://github.com/2SMOGss/Cloud-Honeynet-SOC))
+ - KGL        -HTML
+ - Network Security – Understanding firewalls, VPNs, and network protection strategies.
+ - Linux & Command Line – Basic Linux commands and scripting for security tasks.
+ - SIEM (Security Information and Event Management) – Using tools like Splunk for log analysis.
+ - Intrusion Detection & Prevention – Identifying and mitigating cyber threats.
+ - Incident Response – Steps to handle security breaches and incidents.
+ - Vulnerability Assessment – Identifying security weaknesses and patching them.
+ - Risk Management & Compliance – Understanding governance frameworks (e.g., NIST, ISO 27001).
+ - Cryptography Basics – Encrypting and securing sensitive data.
+ - Endpoint Security – Protecting devices using antivirus and EDR solutions.
+ - Cloud Security Basics – Understanding cloud risks and mitigation strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
  <!--
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
