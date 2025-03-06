@@ -1,6 +1,6 @@
-<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
+<!--<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
 
-<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
+<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
 
 
 <h1>Hi, I'm Rob! <br/><!--<a href="https://github.com/2SMOGss/">-->Cybersecurity Student</a>, <!--<a href="https://www.linkedin.com/in/robchich/">-->Seasnoned Professional</a>,
