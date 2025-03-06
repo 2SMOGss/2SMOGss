@@ -3,8 +3,7 @@
 <img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
 
 
-<h1>Hi, I'm Rob! <br/><!--<a href="https://github.com/2SMOGss/">-->Cybersecurity Student</a>, <!--<a href="https://www.linkedin.com/in/robchich/">-->Seasnoned Professional</a>,
- <!-- <a href="(https://www.linkedin.com/in/robchich/)">-->Cloud and GRC are my Passion</h1> 
+<h1>Hi, I'm Rob! <br/><!--<a href="https://github.com/2SMOGss/">-->Cybersecurity Student</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a>><!--<a href="https://www.linkedin.com/in/robchich/">-->Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)">-->Cloud and GRC are my Passion</h1> 
 <!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
   -->
 <h2>🌱 I’m currently learning ...</h2>
@@ -29,10 +28,10 @@
  <!--
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>-->
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]((https://github.com/2SMOGss/Cloud-Honeynet-SOC))
+ <!-- - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
@@ -48,27 +47,24 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)-->
 
 <h2> 🤳 Connect with me:</h2>-->
 
-<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 
-<!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/2sm0gSS -->
 
-<!--[<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: --> 
+[<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]:
 
 <h3>https://linkedin.com/in/robchich</h3>  
 
 [X]: https://x.com/2sm0gSS/
 [instagram]: https://www.instagram.com/robertchich/
-<!--[youtube]: https://www.youtube.com/c/joshmadakor
-[snapchat]: https://github.com/2SMOGss/2SMOGss
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -80,4 +76,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
