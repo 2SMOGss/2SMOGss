@@ -1,6 +1,6 @@
-<!--<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
+<img src="[url](https://imgur.com/HGYj714)" alt="Robert Chich Cyber Analyst">
 
-<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">-->
+<img src="<img src="url" alt="alternatetext">" alt="Girl in a jacket" width="500" height="600">
 
 
 <h1>Hi, I'm Rob! <br/><!--<a href="https://github.com/2SMOGss/">-->Cybersecurity Student</a>, <!--<a href="https://www.linkedin.com/in/robchich/">-->Seasnoned Professional</a>,
@@ -10,18 +10,19 @@
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Google Cybersecurty Certificate <div> </b>
-- <b>CompTia Security + (In progress exspected finish 12/24)</b>
+- <b>CompTia Security + (In progress exspected finish 6/2025)</b>
 <!--- <b>Qualys Guard Vulnerability Management  VMDR (In progress, expected 01/25</b>
   <div>
   <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left">
-</div>
-<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 01/25)</b>-->
+</div>-->
+<b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)</b>
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
+  - [Cloud-Honeynet-SOC Project] (https://github.com/2SMOGss/Cloud-Honeynet-SOC)
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
   - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
-  - [GRC](https://github.com/2SMOGss/GRC)
+  <!--- [GRC](https://github.com/2SMOGss/GRC)-->
   - [MySQL](https://github.com/2SMOGss/MySQL)
 
 <h2></h2>
@@ -64,10 +65,10 @@
 
 <h3>https://linkedin.com/in/robchich</h3>  
 
+[X]: https://x.com/2sm0gSS/
+[instagram]: https://www.instagram.com/robertchich/
 <!--[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [snapchat]: https://github.com/2SMOGss/2SMOGss
-
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
