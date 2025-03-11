@@ -13,6 +13,9 @@
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>
+- <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)</b> 
+<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="right">
+
 
 - <b>CompTia Security + (In progress exspected finish 6/2025)</b>
   
