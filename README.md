@@ -10,15 +10,11 @@
 </h1>
 
 
-<h1>Hi, I'm Rob! <br/><<a href="https://github.com/2SMOGss/"Cybersecurity Student"</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a><a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)"Cloud and GRC are my Passion</h1> 
-<!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
-  -->
 <h2>🌱 I’m currently learning ...</h2>
 
 - <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>
 
 - <b>CompTia Security + (In progress exspected finish 6/2025)</b>
-
   
 </div>
 
