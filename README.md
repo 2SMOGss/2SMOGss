@@ -4,7 +4,7 @@
 
 
 
-<h1>Hi, I'm Rob! <br/><<a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a>><!<a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)">-->Cloud and GRC are my Passion</h1> 
+<h1>Hi, I'm Rob! <br/><<a href="https://github.com/2SMOGss/"Cybersecurity Student"</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a><a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)"Cloud and GRC are my Passion</h1> 
 <!-- Paramedic | Cybersecurity Student | Cloud and GRC are my Passion
   -->
 <h2>🌱 I’m currently learning ...</h2>
