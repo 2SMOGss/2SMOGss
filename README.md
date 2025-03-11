@@ -2,6 +2,12 @@
 
 <img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60">
 
+<h1>Hi, I'm Rob! <br/>
+    <a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, 
+    <a href="https://github.com/2SMOGss/Cloud-Honeynet-SOC">Cloud-Honeynet SOC</a>, 
+    <a href="https://www.linkedin.com/in/robchich/">Seasoned Professional</a>, 
+    <a href="https://www.linkedin.com/in/robchich/">Cloud and GRC are my Passion</a>
+</h1>
 
 
 <h1>Hi, I'm Rob! <br/><<a href="https://github.com/2SMOGss/"Cybersecurity Student"</a>, <ahttps://github.com/2SMOGss/Cloud-Honeynet-SOC/a><a href="https://www.linkedin.com/in/robchich/">Seasnoned Professional</a>,<a href="(https://www.linkedin.com/in/robchich/)"Cloud and GRC are my Passion</h1> 
