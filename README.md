@@ -1,6 +1,15 @@
-<!--<img src="[(https://imgur.com/HGYj714)]" alt="Robert Chich Cyber Analyst">-->
+<!--<img src="[(https://imgur.com/HGYj714)]" alt="Robert Chich Cyber Analyst">
 
-<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60">
+<table bgcolor="red">
+  <tr>
+    <td>
+      <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60">
+    </td>
+  </tr>
+</table>-->
+
+
+<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60"><img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="75" height="85">
 
 <h1>Hi, I'm Rob! <br/>
     <a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, 
@@ -12,9 +21,9 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 
-- <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>
+- <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>-->
 - <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)</b> 
-<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="right">
+
 
 
 - <b>CompTia Security + (In progress exspected finish 6/2025)</b>
