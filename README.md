@@ -9,7 +9,8 @@
 </table>-->
 
 
-<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60"><img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="75" height="85">
+<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60">
+<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="75" height="85">-->
 
 <h1>Hi, I'm Rob! <br/>
     <a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, 
@@ -21,8 +22,8 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 
-- <b>Qualys Guard Vulnerability Management VMDR (In progress, expected 04/25)<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>-->
-- <b>CompTia Security + (In progress exspected finish 6/2025)</b>
+- <b>AWS-Certified Solutions Architect (In progress, expected 02/2026)<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>-->
+<!--- <b>CompTia Security + (In progress exspected finish 6/2025)</b>-->
   
 </div>
 
