@@ -35,8 +35,7 @@
   - [MySQL](https://github.com/2SMOGss/MySQL)
   - [Python-File-Manipulation](https://github.com/2SMOGss/Python-File-Manipulation)
   - [Jeopardy Game ](https://github.com/2SMOGss/Jeopardy)
-  - 
-  - <!--- [GRC](https://github.com/2SMOGss/GRC)-->
+ <!--- [GRC](https://github.com/2SMOGss/GRC)-->
 
 <h2>Skills</h2>
 
