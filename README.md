@@ -32,8 +32,11 @@
   - [Cloud-Honeynet-SOC Project](https://github.com/2SMOGss/Cloud-Honeynet-SOC)
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
   - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
-  <!--- [GRC](https://github.com/2SMOGss/GRC)-->
   - [MySQL](https://github.com/2SMOGss/MySQL)
+  - [Python-File-Manipulation](https://github.com/2SMOGss/Python-File-Manipulation)
+  - [Jeopardy Game ](https://github.com/2SMOGss/Jeopardy)
+  - 
+  - <!--- [GRC](https://github.com/2SMOGss/GRC)-->
 
 <h2>Skills</h2>
 
