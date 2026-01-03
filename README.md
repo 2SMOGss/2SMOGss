@@ -96,7 +96,8 @@
 [<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]-->
 
 
-[X]: https://x.com/2sm0gSS/
+[X]: https://x.com/2sm0gSS/ ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/2sm0gSS)
+
 [instagram]: https://www.instagram.com/robertchich/
 
 
