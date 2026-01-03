@@ -98,7 +98,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/2sm0gSS)
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+!(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![instagram](https://www.instagram.com/robertchich/)
 
