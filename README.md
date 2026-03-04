@@ -29,6 +29,7 @@
 
 <h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
 
+  - [Bedrock System Prompt](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap/blob/67293ec7291bb9de2a619edf8a8f31f572ac188c/Bedrock%20System%20Prompt)
   - [Cloud-Honeynet-SOC Project](https://github.com/2SMOGss/Cloud-Honeynet-SOC)
   - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
   - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
