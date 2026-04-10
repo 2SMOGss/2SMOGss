@@ -4,7 +4,7 @@
 ### Cloud Security & GRC Architect 
 **Operational Resilience | Infrastructure Security | HIPAA Compliance**
 
-[![AWS SAA Candidate](https://img.shields.io/badge/AWS-SAA_Candidate_2026-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap)
+[![AWS SAA Candidate](https://img.shields.io/badge/AWS-SAA_Candidate_MID-2026-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap)
 [![Google Cyber](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/2SMOGss/MySQL)
 [![AI Fundamentals](https://img.shields.io/badge/AI-Fundamentals_Certified-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/2SMOGss/pixsort_pro_py)
 
@@ -22,7 +22,7 @@
 | :--- | :--- | :--- | :--- |
 | ✅ **Completed** | **Google Cybersecurity Professional Certificate** | Google / Coursera | Mar 2024 |
 | ✅ **Completed** | **AI Fundamentals** | [Verified] | Feb 2024 |
-| 🚀 **In Progress** | **AWS Certified Solutions Architect – Associate** | AWS | **Expected Feb 2026** |
+| 🚀 **In Progress** | **AWS Certified Solutions Architect – Associate** | AWS | **Expected Jun 2026** |
 
 ---
 
