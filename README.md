@@ -1,4 +1,4 @@
-![Rob's Sentinel Banner](assets/portfolio/banner.png)
+<img src="assets/portfolio/banner.png" width="100%">
 
 # Hi, I'm Rob! 👋
 ### Cloud Security & GRC Architect | Bridging 20 Years of Operational Resilience to Secure Cloud Architectures
