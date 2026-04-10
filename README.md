@@ -9,11 +9,11 @@
 [![AI Fundamentals](https://img.shields.io/badge/AI-Fundamentals_Certified-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/2SMOGss/pixsort_pro_py)
 
 ---
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGs&layout=compact&theme=tokyonight)
 <!--![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=tokyonight)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGs&layout=compact&theme=tokyonight)-->
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=tokyonight)
 
 </div>
 
