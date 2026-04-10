@@ -1,130 +1,52 @@
-<!--<img src="[(https://imgur.com/HGYj714)]" alt="Robert Chich Cyber Analyst">
+![Rob's Sentinel Banner](assets/portfolio/banner.png)
 
-<table bgcolor="red">
-  <tr>
-    <td>
-      <img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60">
-    </td>
-  </tr>
-</table>-->
+# Hi, I'm Rob! 👋
+### Cloud Security & GRC Architect | Bridging 20 Years of Operational Resilience to Secure Cloud Architectures
 
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=tokyonight)
 
-<img src="https://i.imgur.com/zNm7DeP.png" alt="GCC" width="50" height="60"><img src="https://i.imgur.com/5j0KCeG.png" alt="GCC" width="50" height="60">
-<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="75" height="85">-->
+---
 
-<h1>Hi, I'm Rob! <br/>
-    <a href="https://github.com/2SMOGss/">Cybersecurity Student</a>, 
-    <a href="https://github.com/2SMOGss/Cloud-Honeynet-SOC">Cloud-Honeynet SOC</a>, 
-    <a href="https://www.linkedin.com/in/robchich/">Seasoned Professional</a>, 
-    <a href="https://www.linkedin.com/in/robchich/">Cloud and GRC are my Passion</a>
-</h1>
+## 🛡️ Credential Vault
+| Status | Credential | Provider |
+| :--- | :--- | :--- |
+| ✅ **Completed** | **Google Cybersecurity Professional Certificate** | Google / Coursera |
+| ✅ **Completed** | **AI Fundamentals** | [Self-Paced/Verified] |
+| 🚀 **In Progress** | **AWS Certified Solutions Architect – Associate** | AWS (Target 02/2026) |
 
+---
 
-<h2>🌱 I’m currently learning ...</h2>
+## 🛠️ Skill Arsenal
 
-- <b>AWS-Certified Solutions Architect (In progress, expected 02/2026)<!--<img src="https://ik.imagekit.io/qualys/image/logo/qualys.svg" width="50" height="60" align="left"></b>-->
-<!--- <b>CompTia Security + (In progress exspected finish 6/2025)</b>-->
-  
-</div>
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![VPC](https://img.shields.io/badge/VPC-Networking-blue?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-Least--Privilege-orange?style=for-the-badge)
 
-<h2>👨‍💻 Cybersecurity/GRC Analyst Projects:</h2>
+### ⚖️ GRC & Security Ops
+![NIST](https://img.shields.io/badge/NIST-Framework-green?style=for-the-badge) 
+![HIPAA](https://img.shields.io/badge/HIPAA-Compliance-red?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Log--Analysis-purple?style=for-the-badge)
 
-  - [Bedrock System Prompt](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap/blob/67293ec7291bb9de2a619edf8a8f31f572ac188c/Bedrock%20System%20Prompt)
-  - [Cloud-Honeynet-SOC Project](https://github.com/2SMOGss/Cloud-Honeynet-SOC)
-  - [Google Cybersecuity Project SQL](https://github.com/2SMOGss/MySQL)
-  - [Bash_Linux_Projects](https://github.com/2SMOGss/Bash_Linix_Projects)
-  - [MySQL](https://github.com/2SMOGss/MySQL)
-  - [Python-File-Manipulation](https://github.com/2SMOGss/Python-File-Manipulation)
-  - [Jeopardy Game ](https://github.com/2SMOGss/Jeopardy)
- <!--- [GRC](https://github.com/2SMOGss/GRC)-->
+### 🤖 Automation & Code
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2>Skills</h2>
+---
 
- - <b>PowerShell</b>
- - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]((https://github.com/2SMOGss/Cloud-Honeynet-SOC))
- - KGL        -HTML
- - Network Security – Understanding firewalls, VPNs, and network protection strategies.
- - Linux & Command Line – Basic Linux commands and scripting for security tasks.
- - SIEM (Security Information and Event Management) – Using tools like Splunk for log analysis.
- - Intrusion Detection & Prevention – Identifying and mitigating cyber threats.
- - Incident Response – Steps to handle security breaches and incidents.
- - Vulnerability Assessment – Identifying security weaknesses and patching them.
- - Risk Management & Compliance – Understanding governance frameworks (e.g., NIST, ISO 27001).
- - Cryptography Basics – Encrypting and securing sensitive data.
- - Endpoint Security – Protecting devices using antivirus and EDR solutions.
- - Cloud Security Basics – Understanding cloud risks and mitigation strategies.
+## 📂 Mission Logs (Key Projects)
+- 📡 [**PixSortPro**](https://github.com/2SMOGss/pixsort_pro_py) - High-Integrity Chronological File Sorter with Cryptographic Verification (SHA-256).
+- 🏥 [**VitalStream VPC**](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap) - HIPAA-aligned 3-tier medical infrastructure (AWS SAA-C03 Lab).
+- 🔍 [**Cloud-Honeynet-SOC**](https://github.com/2SMOGss/Cloud-Honeynet-SOC) - Real-time SIEM log analysis and GeoData conversion.
+- 🤖 [**Bedrock Guardrails**](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap/blob/main/Bedrock%20System%20Prompt) - AI System Prompt engineering for security and compliance.
+- 📊 [**Google Capstone SQL**](https://github.com/2SMOGss/MySQL) - Advanced database manipulation and security auditing for Google Cybersecurity Cert.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
- <!--
-  - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>-->
-
- <!-- - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
-<!--<h2> 🤳 Connect with me:</h2>
-
-<!--[<img align="left" alt="Robert Chich | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-
-[<img align="left" alt="Robert Chich | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-
-[<img align="left" alt="Rob Chich | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]-->
-
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/2sm0gSS) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robchich) [![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertchich/)
-<!--Google Sheets	Google Sheets	![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-LibreOffice	LibreOffice	![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-Microsoft	Microsoft	![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-Microsoft Access	Microsoft Access	![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-Microsoft Excel	Microsoft Excel	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-Microsoft Office	Microsoft Office	![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-Microsoft PowerPoint	Microsoft PowerPoint	![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-Microsoft SharePoint	Microsoft SharePoint 	![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-Microsoft Visio	Microsoft Visio 	![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-Microsoft Word	Microsoft Word	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
--->
-
-<!-- https://twitter.com/2sm0gSS[twitter]:-->
-
-<!--
-<h3>https://linkedin.com/in/robchich</h3>  [linkedin]:
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+## 🤳 Intelligence Feed (Connect)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robchich)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@robchich)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/2sm0gSS)
