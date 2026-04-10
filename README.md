@@ -1,10 +1,19 @@
-<img src="assets/portfolio/banner.png" width="100%">
+<div align="center">
 
 # Hi, I'm Rob! 👋
-### Cloud Security & GRC Architect | Bridging 20 Years of Operational Resilience to Secure Cloud Architectures
+### Cloud Security & GRC Architect
+**Translating 20 Years of Operational Resilience to Secure Cloud Architectures**
+
+[![AWS SAA-C03](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap)
+[![Google Cyber](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/2SMOGss/MySQL)
+[![AI Fundamentals](https://img.shields.io/badge/AI-Fundamentals_Certified-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/2SMOGss/pixsort_pro_py)
+
+---
 
 ![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -12,7 +21,7 @@
 | Status | Credential | Provider |
 | :--- | :--- | :--- |
 | ✅ **Completed** | **Google Cybersecurity Professional Certificate** | Google / Coursera |
-| ✅ **Completed** | **AI Fundamentals** | [Self-Paced/Verified] |
+| ✅ **Completed** | **AI Fundamentals** | [Verified] |
 | 🚀 **In Progress** | **AWS Certified Solutions Architect – Associate** | AWS (Target 02/2026) |
 
 ---
@@ -41,7 +50,7 @@
 - 📡 [**PixSortPro**](https://github.com/2SMOGss/pixsort_pro_py) - High-Integrity Chronological File Sorter with Cryptographic Verification (SHA-256).
 - 🏥 [**VitalStream VPC**](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap) - HIPAA-aligned 3-tier medical infrastructure (AWS SAA-C03 Lab).
 - 🔍 [**Cloud-Honeynet-SOC**](https://github.com/2SMOGss/Cloud-Honeynet-SOC) - Real-time SIEM log analysis and GeoData conversion.
-- 🤖 [**Bedrock Guardrails**](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap/blob/main/Bedrock%20System%20Prompt) - AI System Prompt engineering for security and compliance.
+- 🤖 [**Bedrock Guardrails**](https://github.com/2SMOGss/2026-Cloud-Security-Architect-Roadmap/blob/67293ec7291bb9de2a619edf8a8f31f572ac188c/Bedrock%20System%20Prompt) - AI System Prompt engineering for security and compliance.
 - 📊 [**Google Capstone SQL**](https://github.com/2SMOGss/MySQL) - Advanced database manipulation and security auditing for Google Cybersecurity Cert.
 
 ---
