@@ -10,8 +10,8 @@
 
 ---
 
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=dark)
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=2SMOGss&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SMOGss&layout=compact&theme=tokyonight)
 
 </div>
 
