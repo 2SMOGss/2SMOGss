@@ -52,12 +52,17 @@
 
 ---
 
+---
+
 ## 🛡️ Credential Vault
 | Status | Credential | Provider | Timeline |
 | :--- | :--- | :--- | :--- |
-| ✅ **Completed** | **Google Cybersecurity Professional Certificate** | Google / Coursera | Mar 2024 |
-| ✅ **Completed** | **AI Fundamentals** | [Verified] | Feb 2024 |
-| 🚀 **In Progress** | **AWS Certified Solutions Architect – Associate** | AWS | **Expected Jun 2026** |
+| 🚀 **In Progress** | **AWS Certified Solutions Architect – Professional** | AWS | **Expected Jun 2026** |
+| ✅ **Completed** | [**Google AI Professional Certificate**](https://www.credly.com/badges/abb07f91-e187-4b01-9b54-061bd7fc4b5e/public_url) | Google / Coursera | **Apr 2026** |
+| ✅ **Completed** | [**Google Cybersecurity Professional Certificate**](https://www.credly.com/badges/17183b0e-a6fc-4cc0-abab-e5e349e8dbb8/public_url) | Google / Coursera | Mar 2024 |
+| ✅ **Completed** | [**AI Fundamentals**](https://www.credly.com/badges/65ebfc50-807f-4035-a07d-a5c9474dc98d/public_url)| Google / Coursera | Feb 2024 |
+
+
 
 ---
 
