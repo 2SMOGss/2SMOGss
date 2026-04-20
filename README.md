@@ -18,12 +18,6 @@
 </div>
 
 ---
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="abb07f91-e187-4b01-9b54-061bd7fc4b5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-https://www.credly.com/badges/abb07f91-e187-4b01-9b54-061bd7fc4b5e/public_url
-
----
----
 
 ## 🛡️ Credential Vault
 | Status | Credential | Provider | Timeline |
